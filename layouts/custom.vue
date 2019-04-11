@@ -1,7 +1,7 @@
 <template>
   <div>
     <HeaderMenu/>
-    <p>Users Selection</p>
+    <p>Written in /layouts/custom.vue</p>
     <nuxt/>
   </div>
 </template>
@@ -18,6 +18,6 @@ export default {
 
 <style>
 * {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 </style>

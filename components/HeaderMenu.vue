@@ -49,6 +49,7 @@ export default {};
   height: 60px;
   justify-content: center;
   align-items: center;
+  margin: 0 0 10px 0;
 }
 /* .nav-item {
   list-style: None;
